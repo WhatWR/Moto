@@ -1,4 +1,4 @@
-CREATE TABLE IF NOT EXISTS motorcycle (
+CREATE TABLE IF NOT EXISTS moto (
     id            INTEGER PRIMARY KEY AUTOINCREMENT,
     model         TEXT    NOT NULL,
     price         INTEGER    NOT NULL,
